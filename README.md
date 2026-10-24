@@ -1,2 +1,2 @@
 # declutter-releases
-Downloads and updates for Declutter. Visit: [declutter.maciekstosio.com](declutter.maciekstosio.com)
+Downloads and updates for Declutter. Visit: [declutter.maciekstosio.com](http://declutter.maciekstosio.com)
