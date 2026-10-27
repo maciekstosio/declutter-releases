@@ -1,6 +1,6 @@
-# Declutter
+<img src="icon.png" alt="" width="96">
 
-[![Declutter demo](demo.jpg)](https://declutter.maciekstosio.com)
+# Declutter
 
 Declutter finds look-alike photos in your Photos library, picks the best of each group, and helps you remove the rest. The AI runs entirely on your Mac.
 
